@@ -1,9 +1,10 @@
 🎥 O Futuro das IAs Generativas
-📌 Visão Geral
+
+## 📌 Visão Geral
 
 Este projeto consiste na criação de um vídeo curto e informativo que apresenta, de forma objetiva e envolvente, o potencial das IAs Generativas e suas aplicações no cotidiano. O conteúdo foi desenvolvido para comunicar conceitos complexos de maneira acessível, destacando o impacto atual dessa tecnologia.
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 - Demonstrar como ferramentas de IA generativa podem ser utilizadas para:
 
@@ -13,13 +14,13 @@ Este projeto consiste na criação de um vídeo curto e informativo que apresent
 
 - apoio ao processo criativo e narrativo.
 
-🤖 Tecnologias Utilizadas
+## 🤖 Tecnologias Utilizadas
 
 - IA generativa **[ChatGPT](https://chat.openai.com)** para roteirização, revisão textual e refinamento narrativo.
 
 - IA generativa **[D-ID](https://www.d-id.com)** para geração de avatar virtual e síntese de voz.
 
-🛠️ Metodologia
+## 🛠️ Metodologia
 
 - Definição do objetivo e do tempo do vídeo (≈30 segundos);
 
@@ -29,13 +30,13 @@ Este projeto consiste na criação de um vídeo curto e informativo que apresent
 
 - Ajustes finais para garantir fluidez, clareza e impacto visual.
 
-🚀 Resultado
+## 🚀 Resultado
 
 O resultado é um vídeo curto, dinâmico e informativo, que apresenta as IAs generativas como ferramentas capazes de ampliar a criatividade, a produtividade e a comunicação, tanto em contextos profissionais quanto pessoais.
 
 🔗 Vídeo: [LINK](https://github.com/Rs134-sa/lab-natty-or-not/blob/main/IAs%20DIO2.mp4)
 
-📂 Aplicações
+## 📂 Aplicações
 
 Este projeto pode ser utilizado como:
 
@@ -45,7 +46,7 @@ Este projeto pode ser utilizado como:
 
 - Exemplo de uso prático de IA na criação de conteúdo digital.
 
-💡 Considerações Finais
+## 💡 Considerações Finais
 
 O projeto evidencia o potencial das IAs Generativas como ferramentas estratégicas de criação, mostrando que seu valor vai além da automação, atuando diretamente na construção de narrativas, ideias e soluções.
 
@@ -53,5 +54,3 @@ O projeto evidencia o potencial das IAs Generativas como ferramentas estratégic
 
 **Raiane Sá**  
 🌐 [LinkedIn](www.linkedin.com/in/raiane-sá-165b6b193) | [GitHub](https://github.com/Rs134-sa)
-
----
