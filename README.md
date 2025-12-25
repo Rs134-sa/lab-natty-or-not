@@ -33,7 +33,7 @@ Este projeto consiste na criação de um vídeo curto e informativo que apresent
 
 O resultado é um vídeo curto, dinâmico e informativo, que apresenta as IAs generativas como ferramentas capazes de ampliar a criatividade, a produtividade e a comunicação, tanto em contextos profissionais quanto pessoais.
 
-🔗 Vídeo: [INSERIR LINK AQUI]
+🔗 Vídeo: [LINK](https://github.com/Rs134-sa/lab-natty-or-not/blob/main/IAs%20DIO2.mp4)
 
 📂 Aplicações
 
